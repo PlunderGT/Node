@@ -1,0 +1,13 @@
+{
+  "name": "sistema-ferreteria",
+  "version": "1.0.0",
+  "description": "Sistema de Ferretería con Node.js + Express",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "test": "node src/test.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
